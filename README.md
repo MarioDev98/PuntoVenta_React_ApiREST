@@ -1,3 +1,11 @@
+#Punto de venta creado con react js y api Rest En PHP
+
+En la carpeta de APIS REST Y BASE DE DATOS se encuentan los archivos PHP 
+De preferencia separar esas carpetas despues de clonar el proyecto o descargarlo.
+
+#En caso de error CORS
+solo se necesita activar la extension de CORS en el navegador que usemos.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
